@@ -1,6 +1,6 @@
 
 # 888-RAT V1.2.1[Lifetime Activated]
-The famous 888 rat for Windows, Android and Linux, 3 in one. Spying, Windows browser data stealing, Android app database and passwords restoring, Linux terminal and much more. The tool is lifetime activated. DM me in Telegram to buy: [@escanorghost](https://t.me/escanorghost)
+The famous 888 rat for Windows, Android and Linux, 3 in one. Spying, Windows browser data stealing, Android app database and passwords restoring, Linux terminal and much more. The tool is lifetime activated. DM me in Telegram to buy: [@inheritedeu](https://t.me/inheritedeu)
 
 ## Some features:
 #### 💠Windows:
