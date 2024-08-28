@@ -10,14 +10,15 @@ The famous 888 rat for Windows, Android and Linux, 3 in one. Spying, Windows bro
 ✅Screen monitoring
 ✅Keylogger
 ✅Filezilla Sessions
+✅Hidden RDP
 
 #### 💠Android:
 ✅Spying
 ✅Password stealing
 ✅App database restoring
-✅Screen monitoring
-✅Keylogger
-✅Filezilla Sessions
+✅Screen capture
+✅Sound capture
+✅App session grabbing
 
 #### 💠Linux:
 ✅Terminal controlling
