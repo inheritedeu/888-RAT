@@ -30,7 +30,7 @@ The famous 888 rat for Windows, Android and Linux, 3 in one. Spying, Windows bro
 ✅Terminal
 
 ## Screenshots:
-![296371499-34219472-aebb-4184-8773-1e05d12c930c](https://github.com/inheritedeu/888-RAT/assets/113015812/f0efc3dd-94a4-4f31-a5a7-57d9cb068889)
+![image](https://github.com/user-attachments/assets/53923040-53ba-421d-a92f-ae932dee4166)
 
 ![image](https://github.com/user-attachments/assets/71feafb8-7315-4067-b7ca-af833710745b)
 
