@@ -36,7 +36,7 @@ The famous 888 rat for Windows, Android and Linux, 3 in one. Spying, Windows bro
 
 ![image](https://github.com/user-attachments/assets/154ea695-68d5-4eb1-96ba-e145553b47fc)
 
-![image](https://github.com/user-attachments/assets/8048c0fd-fdc1-4791-b37c-1a9ce61c978e)
+![image](https://github.com/user-attachments/assets/86a7cbf4-05a1-4748-9d32-09205c9d6732)
 
 ![image](https://github.com/user-attachments/assets/f2a9eec2-9901-4e97-9c31-79322c40b3af)
 
